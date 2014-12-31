@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingStoneFuYuan", "KingStoneFuYuan\KingStoneFuYuan.csproj", "{9D85CCA9-3B6B-4E02-9859-3DB653A6796E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6481F215-944C-42D3-B2AD-B56001CC0FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D85CCA9-3B6B-4E02-9859-3DB653A6796E}.Debug|x86.ActiveCfg = Debug|x86
+		{9D85CCA9-3B6B-4E02-9859-3DB653A6796E}.Debug|x86.Build.0 = Debug|x86
+		{9D85CCA9-3B6B-4E02-9859-3DB653A6796E}.Release|x86.ActiveCfg = Release|x86
+		{9D85CCA9-3B6B-4E02-9859-3DB653A6796E}.Release|x86.Build.0 = Release|x86
+		{6481F215-944C-42D3-B2AD-B56001CC0FA9}.Debug|x86.ActiveCfg = Debug
+		{6481F215-944C-42D3-B2AD-B56001CC0FA9}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
